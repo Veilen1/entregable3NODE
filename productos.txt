@@ -1,0 +1,1 @@
+[{"title":"Mouse logitech G PRO +","price":123,"thumbnail":"URL1","id":1},{"title":"Mouse logitech G PRO ultra","price":456,"thumbnail":"URL2","id":2},{"title":"Mouse logitech G PRO MAX","price":789,"thumbnail":"URL3","id":3}]
